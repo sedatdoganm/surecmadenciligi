@@ -43,9 +43,6 @@ Analiz sonuçları grafiklerle görselleştirilir.
 2. *Geçiş Matrisi Grafiği:* Süreç adımları arasındaki geçişlerin yoğunluk haritası.
    ![plot2](https://github.com/user-attachments/assets/084bb9fe-007b-420f-8666-2286ccdd8eed)
 
-  
-  *2. Plot:*
-  
 
 **Ek olarak** *Projede istenilenlerden biri olan proje çıktısı:*
 ![calisircikti](https://github.com/user-attachments/assets/cec683ca-ac03-4ccb-a21a-0825cb78d7e5)
