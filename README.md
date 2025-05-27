@@ -12,28 +12,23 @@ Süreç adımları arasındaki geçiş sıklıklarını analiz etmek,
 Tüm bu analizleri kullanıcıya görsel olarak sunmaktır.
 
 **Proje Dosyaları**
-
-süreç-madenciligi-projesi/
-├── surec_analiz.py        # Verileri analiz eden ve grafiklerle görselleştiren Python scripti
-├── surec_verisi.csv       # Örnek olay kayıtları (süreç adımları ve zaman bilgileri)
-├── plotlar/               # Üretilen grafik görselleri (lokal çalıştırıldığında otomatik oluşur)
-└── README.md              # Proje açıklamalarının bulunduğu dosya (bu dosya)
+![Ekran Görüntüsü - 2025-05-27 14-23-09](https://github.com/user-attachments/assets/78f3e95a-2568-4fd2-92bd-a83b0ea63354)
 
 **Kullanılan Teknolojiler**
 
-Python 3.x
-Pandas (veri işleme)
-Matplotlib (görselleştirme)
-Seaborn (gelişmiş grafikler için)
-CSV formatında veri girişi
+1. Python 3.x
+2. Pandas (veri işleme)
+3. Matplotlib (görselleştirme)
+4. Seaborn (gelişmiş grafikler için)
+5. CSV formatında veri girişi
 
 **Analiz Adımları**
 
-CSV dosyası okunur ve veri çerçevesine dönüştürülür.
-Her bir aktivitenin kaç kez tekrarlandığı belirlenir.
-Her bir sürecin toplam süresi hesaplanır.
-Adımlar arasındaki geçiş frekansları tespit edilir.
-Analiz sonuçları grafiklerle görselleştirilir.
+1. CSV dosyası okunur ve veri çerçevesine dönüştürülür.
+2. Her bir aktivitenin kaç kez tekrarlandığı belirlenir.
+3. Her bir sürecin toplam süresi hesaplanır.
+4. Adımlar arasındaki geçiş frekansları tespit edilir.
+5. Analiz sonuçları grafiklerle görselleştirilir.
 
 **Oluşturulan Görseller**
 
